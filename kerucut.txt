@@ -1,0 +1,18 @@
+kerucut
+
+algoritma
+step 1 mendeklarasikan volume, phi, diameter, dan tinggi.
+step 2 masukan nlai phi=3,14 diamter =5 dan tiinggi =4
+step 3 menghitung volume = 1/3*phi*diameter*tinggi
+step 5 menampilkan hasil dari volume kerucut
+
+pseudecode
+
+deklarasi
+var volume, phi, jari - jari, dan tinggi
+
+phi<- 3,14
+diameter<-5
+tinggi <-4
+volume = 1/12*phi*diameter*tinggi
+write(volume)
